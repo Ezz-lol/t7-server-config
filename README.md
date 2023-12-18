@@ -1,5 +1,7 @@
 # T7 Server Config
-Config for T7 Dedicated Servers for use with the BOIII Client.
+Config for T7 Dedicated Servers for use with the [BOIII Client](https://github.com/Ezz-lol/boiii-free).
+
+All DLC Zone files: https://drive.filen.io/d/a9f02ead-7f05-4a2c-bd5a-4d071224024f#eIfU7XFAzNgXbsbqTYyrz7Fy7BkleOre
 
 # How to use
 1. Download the BO3 Unranked Dedicated Server via Steam (It's located in the "Tools" section in your steam library.)
